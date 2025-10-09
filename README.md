@@ -38,7 +38,7 @@ To run the notebooks locally:
 
 ## Feedback
 If you finished the exercise, it would be great to send your feedback to the
-[`short-ex-tau` MatterMost channel](https://mattermost.web.cern.ch/cmsdas24/channels/tau_short_exercise)
+[`short-ex-tau` MatterMost channel](https://mattermost.web.cern.ch/cmsdas-2025-desyuhh/channels/short-exercise-tau)
 with the information whether you were able to successfully tackle the exercise
 and ideally also with pointers to finished notebooks, either linked on GitLab,
 or made available as exported websites or documents, etc.
