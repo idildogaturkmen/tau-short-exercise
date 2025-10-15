@@ -3,7 +3,7 @@
 The Tau short exercise is organised in the two Jupyter notebooks contained in this repository.
 Please join our [`short-ex-tau` MatterMost channel](https://mattermost.web.cern.ch/cmsdas-2025-desyuhh/channels/short-exercise-tau)
 in the [CMSDAS@DESY2025 MatterMost team](https://mattermost.web.cern.ch/signup_user_complete/?id=bfipbmm8i7fm786b9sfj7aqcgy&md=link&sbr=su).
-The slides are available [here](https://gitlab.cern.ch/cmsdas-hamburg-2025/tau-short-exercise).
+The slides are available [here](Tau-DASShortExercise.pdf).
 
 ## Recommended way to run the exercise (SWAN)
 To run the notebooks with regular CERN resources:
